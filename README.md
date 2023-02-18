@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/DevFabricioAraujo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=f4br1c1o&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevFabricioAraujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4br1c1o&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
@@ -29,6 +29,6 @@
   <a href = "mailto:fabricioaraujo.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabrício-lima-43282812a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/f4br1c1o/f4br1c1o/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DevFabricioAraujo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
