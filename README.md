@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil Fabrício Lima 😁
 
- <div>
+ <div>f
    <a href="https://github.com/DevFabricioAraujo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevFabricioAraujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4br1c1o&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFabricioAraujo&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 
