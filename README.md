@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil Fabrício Lima 😁
 
  <div>
-   <a href="https://github.com/f4br1c1o">
+   <a href="https://github.com/DevFabricioAraujo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=f4br1c1o&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4br1c1o&layout=compact&langs_count=6&theme=tokyonight"/>
 
